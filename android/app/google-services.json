@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788071188587",
+    "project_id": "fir-news-820de",
+    "storage_bucket": "fir-news-820de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788071188587:android:ae29b66be3b7503a12092e",
+        "android_client_info": {
+          "package_name": "com.example.signup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhyG90FARn1Ag2DUf-A31XKdCfnMWh6Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
